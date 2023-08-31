@@ -1,0 +1,14 @@
+.special-hover{
+  &:hover{
+    background-color: $body-tertiary-bg;
+
+  }
+}
+
+.special-hover-2{
+  transition: .8s;
+  &:hover{
+    transform: scale(1.05);
+
+  }
+}
