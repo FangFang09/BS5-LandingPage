@@ -1,4 +1,4 @@
-# [Bootstrap5-Landing Page設計稿練習(測試寫README)](https://git.fangfang99.tk/BS5-LandingPage/)
+# [Bootstrap5-Landing Page設計稿練習 測試寫README](https://git.fangfang99.tk/BS5-LandingPage/)
 
 * 依據設計稿來製作網頁版與行動版
   * 主要版面
